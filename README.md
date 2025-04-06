@@ -3,6 +3,9 @@
 An interactive Rust-based desktop application to evaluate the likelihood of psychological operations (PSYOPS) influence in messaging, media, or behaviors. This tool provides a visual score breakdown, allows exporting results to PDF, and is built using `eframe`, `egui`, and `genpdf`.
 
 ---
+## credits
+https://www.youtube.com/@chasehughesofficial
+https://www.youtube.com/watch?v=b3AN2wY4qAM
 
 ## 📖 What Are PSYOPS?
 
