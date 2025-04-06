@@ -5,6 +5,7 @@ An interactive Rust-based desktop application to evaluate the likelihood of psyc
 ---
 ## credits
 https://www.youtube.com/@chasehughesofficial
+
 https://www.youtube.com/watch?v=b3AN2wY4qAM
 
 ## 📖 What Are PSYOPS?
@@ -62,7 +63,7 @@ Common characteristics include emotional manipulation, repetition of simplistic 
 
 
 # Clone the repository
-git clone https://github.com/yourusername/psyops-assessment.git
+git clone https://github.com/s-b-repo/rust-ops.git
 cd psyops-assessment
 
 # Build and run
