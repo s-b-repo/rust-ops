@@ -102,14 +102,6 @@ The UI uses Dark Mode by default for eye comfort and focus. Light mode support i
 This application is offline-first, and does not collect or transmit any data. All assessment and PDF generation happens locally on your machine.
 🤖 Future Enhancements
 
-    Light/dark theme toggle
-
-    Export to CSV/JSON
-
-    Embed charts in PDF (via Plotters)
-
-    Uploadable logs or integration with intelligence feeds
-
 🙌 Contributing
 
 Pull requests are welcome! Please fork the repository and open a PR.
