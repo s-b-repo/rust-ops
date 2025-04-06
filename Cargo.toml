@@ -1,0 +1,13 @@
+[package]
+name = "psy"
+version = "0.0.1"
+edition = "2021"
+
+[dependencies]
+eframe = "0.31.1"
+egui = "0.31.1"
+font-kit = "0.11.0"
+plotters = "0.3"
+chrono = "0.4"
+rfd = "0.13"
+genpdf = { version = "0.2.0", features = ["images"] }
