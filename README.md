@@ -35,7 +35,9 @@ Common characteristics include emotional manipulation, repetition of simplistic 
 
 ## 📸 Screenshots
 
-> _Screenshots coming soon!_
+Here's a look at the PSYOPS Assessment Tool UI:
+
+![Preview](https://github.com/s-b-repo/rust-ops/raw/main/Screenshot_20250406_222548.png)
 
 ---
 
